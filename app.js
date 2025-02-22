@@ -9,7 +9,7 @@ class Book {
 
 // UI Class
 class UI {
-
+    console.log("Hello world");
     // FUNCTION TO DISPLAY THE BOOKS IN TABLE
     static displayBooks(){
         let books = Store.getBooks();
